@@ -1,6 +1,6 @@
 
 
-const clientID = "58eecceee1fa433c9c233dbb9618d2f3";
+const clientID = "";
 const queryUrl = 'https://accounts.spotify.com/authorize';
 const redirectUri = 'http://localhost:3000/';
 let accessToken;
